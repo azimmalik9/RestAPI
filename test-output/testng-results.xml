@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3860" started-at="2018-11-19T10:13:46Z" finished-at="2018-11-19T10:13:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3860" started-at="2018-11-19T10:13:46Z" finished-at="2018-11-19T10:13:50Z">
+      <class name="basics9">
+        <test-method status="PASS" signature="E2E()[pri:0, instance:basics9@20e2cbe0]" name="E2E" duration-ms="2968" started-at="2018-11-19T10:13:46Z" finished-at="2018-11-19T10:13:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- E2E -->
+        <test-method status="PASS" signature="createTweet()[pri:0, instance:basics9@20e2cbe0]" name="createTweet" duration-ms="500" started-at="2018-11-19T10:13:49Z" finished-at="2018-11-19T10:13:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createTweet -->
+        <test-method status="PASS" signature="getLatestTweet()[pri:0, instance:basics9@20e2cbe0]" name="getLatestTweet" duration-ms="370" started-at="2018-11-19T10:13:50Z" finished-at="2018-11-19T10:13:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLatestTweet -->
+      </class> <!-- basics9 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
