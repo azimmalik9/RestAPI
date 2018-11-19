@@ -28,7 +28,7 @@ public class basics {
 	       header("Server","scaffolding on HTTPServer2");
 		
 		//Status code of the response
-				//Content type 
+				//Content type "test"
 				//Body
 				//Header responses
 	}
